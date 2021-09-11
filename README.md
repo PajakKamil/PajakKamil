@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PajakKamil
+- 👋 Hi, I’m @Pająk Kamil
 - 👀 I’m interested in C++ programming
 - 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on Game Development
