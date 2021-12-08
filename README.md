@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pająk Kamil
 - 👀 I’m interested in C++ programming
-- 🌱 I’m currently learning Unreal Engine
-- 💞️ I’m looking to collaborate on Game Development
+- 🌱 I’m currently learning C#/SQL/Python
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kpajak255@gmail.com
 
 <!---
