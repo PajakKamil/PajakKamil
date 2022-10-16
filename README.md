@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pająk Kamil
-- 👀 I’m interested in C++ programming
-- 🌱 I’m currently learning C#/SQL/Python
+- 👀 I’m interested in ... programming
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kpajak255@gmail.com
 
